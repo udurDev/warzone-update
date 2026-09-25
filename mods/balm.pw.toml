@@ -1,6 +1,6 @@
 name = "Balm"
 filename = "balm-forge-1.20.1-7.3.43.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/1VlYVa3k/balm-forge-1.20.1-7.3.43.jar"

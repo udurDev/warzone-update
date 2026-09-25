@@ -1,6 +1,6 @@
 name = "Better Blood Overlay"
 filename = "betterbloodoverlay-forge-1.20.1-2.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TSCrvOPg/versions/TxNXPuKE/betterbloodoverlay-forge-1.20.1-2.2.0.jar"

@@ -1,6 +1,6 @@
 name = "Drip Sounds"
 filename = "Drip Sounds-0.5.2+1.20.4-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

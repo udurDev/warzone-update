@@ -1,6 +1,6 @@
 name = "Wavey Capes"
 filename = "waveycapes-forge-1.11.2-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/YQu1WxmI/waveycapes-forge-1.11.2-mc1.20.1.jar"

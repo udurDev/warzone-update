@@ -1,6 +1,6 @@
 name = "GroovyModLoader (GML)"
 filename = "gml-4.0.11-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
