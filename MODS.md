@@ -1,4 +1,4 @@
-# Состав сборки 2.0.2
+# Состав сборки 2.0.3
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -125,5 +125,4 @@
 - [TACZ/SBW]Suppression — `suppressionmod-1.1.1.jar` (both)
 - [TaCZ/SBW] PlayerRevive gun mod compitability — `playerrevive_compat-1.0.4-daf51f2.jar` (both)
 - [TaCZ] Timeless and Classics Zero Guns — `tacz-1.20.1-1.1.8-hotfix.jar` (both)
-- fiw-anticheat-forge-1.20.1-2.1.0 — `fiw-anticheat-forge-1.20.1-2.1.0.jar` (both)
 - libIPN — `libIPN-forge-1.20-4.0.2.jar` (client)
