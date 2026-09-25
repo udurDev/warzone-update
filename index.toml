@@ -14,7 +14,7 @@ hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "9c65612e39d2c96cbdf45f3553f62e90a8952823e22872b3ca1ddcf156105dfb"
+hash = "ac466878608d7cbd7c12ceadb12b9cb60ed8b94e1f9d90b2de60439b0bf27ef4"
 
 [[files]]
 file = "mods/ambientsounds-6.pw.toml"
@@ -314,11 +314,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "69a79a9543db9deacf7126a68f4d36567411c36334f2cbd7cfb1bef27b4ca204"
-metafile = true
-
-[[files]]
-file = "mods/invsee-forge-1-20-1-1-2-0.pw.toml"
-hash = "c163b5506c0ba0dcf471a12bf0bd25a223681161a5871175d1c95fa6d8028a72"
 metafile = true
 
 [[files]]

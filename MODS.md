@@ -1,4 +1,4 @@
-# Состав сборки 2.0.5
+# Состав сборки 2.0.6
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -128,5 +128,4 @@
 - [TaCZ] Timeless and Classics Zero Guns — `tacz-1.20.1-1.1.8-hotfix.jar` (both)
 - collective-1.20.1-8.40 — `collective-1.20.1-8.40.jar` (server)
 - deathbackup-1.20.1-3.6 — `deathbackup-1.20.1-3.6.jar` (server)
-- invsee-forge-1.20.1-1.2.0 — `invsee-forge-1.20.1-1.2.0.jar` (server)
 - libIPN — `libIPN-forge-1.20-4.0.2.jar` (client)
