@@ -1,4 +1,4 @@
-# Сборка Warzone 2.0.1
+# Сборка Warzone 2.0.2
 
 - [Warzone-Start.zip](https://raw.githubusercontent.com/udurDev/warzone-update/main/download/Warzone-Start.zip) — TLauncher, официальный лаунчер, CurseForge
 - [Warzone-Prism.zip](https://raw.githubusercontent.com/udurDev/warzone-update/main/download/Warzone-Prism.zip) — Prism Launcher / PollyMC

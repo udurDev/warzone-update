@@ -1,4 +1,4 @@
-# Состав сборки 2.0.1
+# Состав сборки 2.0.2
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -74,7 +74,7 @@
 - Macaw's Lights and Lamps — `mcw-lights-1.1.5-mc1.20.1forge.jar` (both)
 - Macaw's Roofs — `mcw-roofs-2.3.2-mc1.20.1forge.jar` (both)
 - McJtyLib — `mcjtylib-1.20-8.0.8.jar` (both)
-- MezzConfig — `mezz_config-1.20.1-forge-0.6.3.jar` (client)
+- MezzConfig — `mezz_config-1.20.1-forge-0.6.3.jar` (both)
 - MineTraps — `MineTraps-1.20.2-(v.2.3.0a).jar` (both)
 - ModernFix — `modernfix-forge-5.27.83+mc1.20.1.jar` (both)
 - Moonlight Lib — `moonlight-1.20-2.16.35-forge.jar` (both)

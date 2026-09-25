@@ -1,6 +1,6 @@
 name = "MezzConfig"
 filename = "mezz_config-1.20.1-forge-0.6.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/euqS2osE/mezz_config-1.20.1-forge-0.6.3.jar"
