@@ -14,7 +14,7 @@ hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "137f467241023dadfa605db00e630b25a9394d0fc7232718812983ba24b93945"
+hash = "9c65612e39d2c96cbdf45f3553f62e90a8952823e22872b3ca1ddcf156105dfb"
 
 [[files]]
 file = "mods/ambientsounds-6.pw.toml"
@@ -607,8 +607,8 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzupdater-1.3.0.jar"
-hash = "fb3fd91493e07c1e6fdb6b428b46d8ffa93c656955d4e3986d46ae40c9baf6c6"
+file = "mods/wzupdater-1.3.1.jar"
+hash = "ce944ee4669d540a8e1506d072cbfc4f162dd86e4aa67bbe8893461d4dff26e5"
 
 [[files]]
 file = "mods/xaero-s-minimap.pw.toml"
