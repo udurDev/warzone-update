@@ -1,0 +1,13 @@
+name = "Giant Swamp Tree"
+filename = "giant_swamp_tree-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuGtXC9N/versions/m3JARZNU/giant_swamp_tree-1.0.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "87d312bbeef8f508180c56cae76406e5e3f903fc"
+
+[update]
+[update.modrinth]
+mod-id = "WuGtXC9N"
+version = "m3JARZNU"

@@ -1,0 +1,13 @@
+name = "Security Craft"
+filename = "[1.20.1] SecurityCraft v1.10.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v8jzRtAt/versions/PhNy7dJx/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar"
+hash-format = "sha1"
+hash = "6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab"
+
+[update]
+[update.modrinth]
+mod-id = "v8jzRtAt"
+version = "PhNy7dJx"

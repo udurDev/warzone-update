@@ -1,0 +1,13 @@
+name = "[SBW]DragonRise:Reforge"
+filename = "dragonrise_reforge-1.5.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9cf331b70b119e4f01754455183aec70f3d08b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8731566
+project-id = 1346094

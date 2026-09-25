@@ -1,0 +1,13 @@
+name = "Explosion Overhaul: A new level of destruction"
+filename = "Explosion-Overhaul-0.2.3.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sOxnTLKl/versions/93XGK0uB/Explosion-Overhaul-0.2.3.0-forge-.jar"
+hash-format = "sha1"
+hash = "cc9476ceb1c76d40e25322bcb32f568833d6866f"
+
+[update]
+[update.modrinth]
+mod-id = "sOxnTLKl"
+version = "93XGK0uB"

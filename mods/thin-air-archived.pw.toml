@@ -1,0 +1,13 @@
+name = "Thin Air [Archived]"
+filename = "ThinAir-v8.1.7-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ll2RO0er/versions/XOOZYqAf/ThinAir-v8.1.7-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "fc6d65691bd26dc1f99eeec0646b330a7f7c9315"
+
+[update]
+[update.modrinth]
+mod-id = "ll2RO0er"
+version = "XOOZYqAf"

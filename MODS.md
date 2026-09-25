@@ -1,0 +1,127 @@
+# Состав сборки 2.0.0
+
+- AmbientSounds 6 — `AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar`
+- AppleSkin — `appleskin-forge-mc1.20.1-2.5.1.jar`
+- Architectury API — `architectury-9.2.14-forge.jar`
+- BadOptimizations — `BadOptimizations-2.4.1-1.20.1.jar`
+- Ballistix — `Ballistix-1.20.1-1.1.1.jar`
+- Balm — `balm-forge-1.20.1-7.3.43.jar`
+- Better Advancements — `BetterAdvancements-Forge-1.20.1-0.6.0.73.jar`
+- Better Blood Overlay — `betterbloodoverlay-forge-1.20.1-2.2.0.jar`
+- BetterF3 — `BetterF3-7.0.2-Forge-1.20.1.jar`
+- Brimm Armors | Tactical Military Armors — `brimm-2.0.3.jar`
+- Catalogue — `catalogue-forge-1.20.1-1.8.0.jar`
+- Chat Heads — `chat_heads-0.15.7-forge-1.20.jar`
+- Cloth Config API (Fabric/Forge/NeoForge) — `cloth-config-11.1.136-forge.jar`
+- Clumps — `Clumps-forge-1.20.1-12.0.0.4.jar`
+- ColdSweat-2.4.3.2 — `ColdSweat-2.4.3.2.jar`
+- Configured — `configured-forge-1.20.1-2.2.3.jar`
+- Connectivity — `connectivity-1.20.1-7.7.jar`
+- Controlling — `Controlling-forge-1.20.1-12.0.2.jar`
+- CoroUtil — `coroutil-forge-1.20.1-1.3.7.jar`
+- Corpse — `corpse-forge-1.20.1-1.0.23.jar`
+- CreativeCore — `CreativeCore_FORGE_v2.12.40_mc1.20.1.jar`
+- Cubic Sun & Moon — `cubic-sun-moon-v1.8.5.zip`
+- Cupboard — `cupboard-1.20.1-4.2.jar`
+- Curios API — `curios-forge-5.14.1+1.20.1.jar`
+- CustomSkinLoader — `CustomSkinLoader_Universal-15.0.1.jar`
+- Deeper and Darker — `deeperdarker-forge-1.20.1-1.3.3.jar`
+- Default Dark Mode — `Default-Dark-Mode-1.20-2023.7.0.zip`
+- Default Options — `defaultoptions-forge-1.20.1-18.0.5.jar`
+- Diet (Fabric/Forge/Quilt) — `diet-forge-2.1.1+1.20.1.jar`
+- Drip Sounds — `Drip Sounds-0.5.2+1.20.4-Forge.jar`
+- Dynamic FPS — `dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar`
+- Dynamic Lights — `dynamiclights-1.20.1.2.jar`
+- Eating Animation [Neo/Forge] — `eatinganimation-1.20.1-5.1.0.jar`
+- Embeddium — `embeddium-0.3.31+mc1.20.1.jar`
+- Entity Culling Fabric/Forge — `entityculling-forge-1.11.2-mc1.20.1.jar`
+- Explorify – Dungeons & Structures — `Explorify v1.6.5.mod.jar`
+- Explosion Overhaul: A new level of destruction — `Explosion-Overhaul-0.2.3.0-forge.jar`
+- Extreme sound muffler - (Neo)Forge — `ExtremeSoundMuffler-3.51-forge-1.20.1.jar`
+- FTB Library (NeoForge) — `ftb-library-forge-2001.2.13.jar`
+- FTB Quests (NeoForge) — `ftb-quests-forge-2001.4.22.jar`
+- FTB Teams (NeoForge) — `ftb-teams-forge-2001.3.2.jar`
+- FTB XMod Compat — `ftb-xmod-compat-forge-2.1.3.jar`
+- Falling Leaves (NeoForge/Forge) — `fallingleaves-1.20.1-2.1.2.jar`
+- Farmer's Delight — `FarmersDelight-1.20.1-1.3.4.jar`
+- Fast IP Ping — `fast-ip-ping-v1.0.12-mc1.20.4-forge.jar`
+- FastFurnace — `FastFurnace-1.20.1-8.0.2.jar`
+- FastSuite — `FastSuite-1.20.1-5.1.2.jar`
+- FastWorkbench — `FastWorkbench-1.20.1-8.0.4.jar`
+- FerriteCore ((Neo)Forge) — `ferritecore-6.0.1-forge.jar`
+- First Aid — `firstaid-1.20.1-1.1.jar`
+- Fracture Point (Tactical Military Armory) — `fracturepoint-1.20.1-3.0.0-PT2-all.jar`
+- Fusion (Connected Textures) — `fusion-1.3.15b-forge-mc1.20.1.jar`
+- GeckoLib — `geckolib-forge-1.20.1-4.8.4.jar`
+- Giant Swamp Tree — `giant_swamp_tree-1.0.1-forge-1.20.1.jar`
+- GroovyModLoader (GML) — `gml-4.0.11-all.jar`
+- Iceberg [Neo/Forge] — `Iceberg-1.20.1-forge-1.1.25.jar`
+- ImmediatelyFast — `ImmediatelyFast-Forge-1.5.5+1.20.4.jar`
+- Immersive Engineering — `ImmersiveEngineering-1.20.1-10.2.0-183.jar`
+- Immersive Petroleum — `ImmersivePetroleum-1.20.1-4.3.1-36b.jar`
+- Inventory Profiles Next — `InventoryProfilesNext-forge-1.20-1.10.20.jar`
+- Item Highlighter [Neo/Forge] — `Highlighter-1.20.1-forge-1.1.9.jar`
+- Item Obliterator (Modpack Utils Series) — `Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar`
+- Jade 🔍 — `Jade-1.20.1-Forge-11.13.3.jar`
+- Just Enough Items (JEI) — `jei-1.20.1-forge-15.62.0.214.jar`
+- Kotlin for Forge — `kotlinforforge-4.12.0-all.jar`
+- KubeJS — `kubejs-forge-2001.6.5-build.26.jar`
+- Low On Fire — `LowOnFire_1.20.1.zip`
+- Macaw's Bridges — `mcw-bridges-3.1.2-mc1.20.1forge.jar`
+- Macaw's Furniture — `mcw-furniture-3.4.1-mc1.20.1forge.jar`
+- Macaw's Lights and Lamps — `mcw-lights-1.1.5-mc1.20.1forge.jar`
+- Macaw's Roofs — `mcw-roofs-2.3.2-mc1.20.1forge.jar`
+- McJtyLib — `mcjtylib-1.20-8.0.8.jar`
+- MezzConfig — `mezz_config-1.20.1-forge-0.6.3.jar`
+- MineTraps — `MineTraps-1.20.2-(v.2.3.0a).jar`
+- ModernFix — `modernfix-forge-5.27.83+mc1.20.1.jar`
+- Moonlight Lib — `moonlight-1.20-2.16.35-forge.jar`
+- Mouse Tweaks — `MouseTweaks-forge-mc1.20.1-2.25.1.jar`
+- Necronomicon API — `Necronomicon-Forge-1.6.0+1.20.1.jar`
+- Not Enough Animations — `notenoughanimations-forge-1.12.6-mc1.20.1.jar`
+- Observable — `observable-4.4.1.jar`
+- Patchouli — `Patchouli-1.20.1-85-FORGE.jar`
+- Pick Up Notifier — `PickUpNotifier-v8.0.0-1.20.1-Forge.jar`
+- Placebo — `Placebo-1.20.1-8.6.3.jar`
+- Plasmo Voice — `plasmovoice-forge-1.20.1-2.1.17.jar`
+- PlayerRevive — `PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar`
+- Polymorph — `polymorph-forge-0.49.11+1.20.1.jar`
+- Presence Footsteps (Forge) — `PresenceFootsteps-1.20.1-1.9.1-beta.1.jar`
+- Puzzles Lib — `PuzzlesLib-v8.1.33-1.20.1-Forge.jar`
+- RFTools Base — `rftoolsbase-1.20-5.0.7.jar`
+- ReForgedPlay [replay mod on (neo)forge] — `reforgedplaymod-1.20.1-0.3.1.jar`
+- Rhino — `rhino-forge-2001.2.3-build.10.jar`
+- Searchables — `Searchables-forge-1.20.1-1.0.3.jar`
+- Security Craft — `[1.20.1] SecurityCraft v1.10.2.1.jar`
+- Simple Login — `SimpleLogin-1.20.1-1.0.2-all.jar`
+- Skin Layers 3D — `skinlayers3d-forge-1.11.3-mc1.20.1.jar`
+- Smooth Boot (Reloaded) — `smoothboot(reloaded)-mc1.20.1-0.0.4.jar`
+- Sound Physics Remastered — `sound-physics-remastered-forge-1.20.1-1.5.1.jar`
+- Stay True — `Stay_True_1.20.zip`
+- SuperMartijn642's Config Lib — `supermartijn642configlib-1.1.8-forge-mc1.20.jar`
+- SuperMartijn642's Core Lib — `supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar`
+- Supplementaries — `supplementaries-1.20-3.1.43-forge.jar`
+- TaCZ Tweaks — `tacz-tweaks-2.14.2-all.jar`
+- TaCZ addon — `taczaddon-1.1.8.2-forge-1.20.1.jar`
+- TaCZ x Guns Lights Addon [NEW] 2.9.0 — `tacz_x_guns_lights_addon-2.9.0.jar`
+- Terralith — `Terralith_1.20.x_v2.5.4.jar`
+- Thin Air [Archived] — `ThinAir-v8.1.7-1.20.1-Forge.jar`
+- Trash Cans — `trashcans-1.1.0a-forge-mc1.20.4.jar`
+- True Darkness [Forge] - Updated Fork — `darkness-forge-1.20.1-2.0.103-fork.jar`
+- True Doors — `§fTrue§r §6§nDoors§r§k§0§k.zip`
+- Voltaic API — `Voltaic-1.20.1-1.0.13.jar`
+- Wavey Capes — `waveycapes-forge-1.11.2-mc1.20.1.jar`
+- XNet — `xnet-1.20-6.1.7.jar`
+- Xaero's Minimap — `xaerominimap-forge-1.20.1-26.5.0.jar`
+- Xaero's World Map — `xaeroworldmap-forge-1.20.1-1.46.0.jar`
+- YetAnotherConfigLib — `yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar`
+- Zombie Awareness — `zombieawareness-1.20.1-1.13.1.jar`
+- [SBW] Advanced CIWS — `SBW-Advanced-CIWS-Forge-1.20.1-SBW-0.8.9-final-v1.0.8-.jar`
+- [SBW] Superb Warfare — `superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar`
+- [SBW]DragonRise:Reforge — `dragonrise_reforge-1.5.0-beta.jar`
+- [TACZ Addons] Daffa's Arsenal — `daffas_arsenal-3.6.0.jar`
+- [TACZ/SBW]Suppression — `suppressionmod-1.1.1.jar`
+- [TaCZ/SBW] PlayerRevive gun mod compitability — `playerrevive_compat-1.0.4-daf51f2.jar`
+- [TaCZ] Timeless and Classics Zero Guns — `tacz-1.20.1-1.1.8-hotfix.jar`
+- fiw-anticheat-forge-1.20.1-2.1.0 — `fiw-anticheat-forge-1.20.1-2.1.0.jar`
+- libIPN — `libIPN-forge-1.20-4.0.2.jar`

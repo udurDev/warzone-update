@@ -1,0 +1,13 @@
+name = "[SBW] Advanced CIWS"
+filename = "SBW-Advanced-CIWS-Forge-1.20.1-SBW-0.8.9-final-v1.0.8-.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lm6m94t6/versions/XsmSVr10/SBW-Advanced-CIWS-Forge-1.20.1-SBW-0.8.9-final-v1.0.8-.jar"
+hash-format = "sha1"
+hash = "e94024e4623dfe0232d36b5bab5ab57fcde67ecf"
+
+[update]
+[update.modrinth]
+mod-id = "Lm6m94t6"
+version = "XsmSVr10"

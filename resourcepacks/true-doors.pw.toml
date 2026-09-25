@@ -1,0 +1,13 @@
+name = "True Doors"
+filename = "§fTrue§r §6§nDoors§r§k§0§k.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bnhvl7ge/versions/9HewWsDe/%C2%A7fTrue%C2%A7r%20%C2%A76%C2%A7nDoors%C2%A7r%C2%A7k%C2%A70%C2%A7k.zip"
+hash-format = "sha1"
+hash = "e76eb104b7c1d0089048f7532674d6df9ec908c0"
+
+[update]
+[update.modrinth]
+mod-id = "Bnhvl7ge"
+version = "9HewWsDe"

@@ -1,0 +1,13 @@
+name = "fiw-anticheat-forge-1.20.1-2.1.0"
+filename = "fiw-anticheat-forge-1.20.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUXFUwPg/versions/jS2CluLe/fiw-anticheat-forge-1.20.1-2.1.0.jar"
+hash-format = "sha1"
+hash = "03c1d917932461a2c740f25f3b163988d04f5835"
+
+[update]
+[update.modrinth]
+mod-id = "BUXFUwPg"
+version = "jS2CluLe"

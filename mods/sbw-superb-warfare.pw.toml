@@ -1,0 +1,13 @@
+name = "[SBW] Superb Warfare"
+filename = "superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cd3DYqzn/versions/mHmtMuKF/superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar"
+hash-format = "sha1"
+hash = "cd143b04ea8245243624c720ddd482c3aea0521e"
+
+[update]
+[update.modrinth]
+mod-id = "Cd3DYqzn"
+version = "mHmtMuKF"

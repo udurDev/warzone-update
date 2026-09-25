@@ -1,0 +1,13 @@
+name = "ColdSweat-2.4.3.2"
+filename = "ColdSweat-2.4.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/VCWBWOkR/ColdSweat-2.4.3.2.jar"
+hash-format = "sha1"
+hash = "7b791285fa8d0a324cfbe41602347e5ecabe3b15"
+
+[update]
+[update.modrinth]
+mod-id = "uXhSmPjd"
+version = "VCWBWOkR"

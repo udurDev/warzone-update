@@ -1,0 +1,38 @@
+{
+  "configVersion": 2,
+  "blacklisted_items": [
+    "minecraft:elytra",
+    "brimm:american_flag_patch",
+    "brimm:austrian_flag_patch",
+    "brimm:belgian_flag_patch",
+    "brimm:belorussian_flag_patch",
+    "brimm:british_flag_patch",
+    "brimm:chinese_flag_patch",
+    "brimm:egyptian_flag_patch",
+    "brimm:french_flag_patch",
+    "brimm:german_flag_patch",
+    "brimm:italian_flag_patch",
+    "brimm:japanese_flag_patch",
+    "brimm:pakistani_flag_patch",
+    "brimm:polish_flag_patch",
+    "brimm:russian_flag_patch",
+    "brimm:urban_american_flag_patch",
+    "dragonrise_reforge:desert07_chest",
+    "dragonrise_reforge:desert07_helmet",
+    "dragonrise_reforge:desert07_pants",
+    "dragonrise_reforge:ocean07_chest",
+    "dragonrise_reforge:ocean07_helmet",
+    "dragonrise_reforge:ocean07_pants"
+  ],
+  "blacklisted_nbt": [],
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  "use_hashmap_optimizations": false
+}
