@@ -1,4 +1,4 @@
-# Состав сборки 2.0.3
+# Состав сборки 2.0.4
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -111,6 +111,7 @@
 - Trash Cans — `trashcans-1.1.0a-forge-mc1.20.4.jar` (both)
 - True Darkness [Forge] - Updated Fork — `darkness-forge-1.20.1-2.0.103-fork.jar` (client)
 - True Doors — `§fTrue§r §6§nDoors§r§k§0§k.zip` (client)
+- Vanishmod-1.20.1-1.1.21 — `Vanishmod-1.20.1-1.1.21.jar` (server)
 - Voltaic API — `Voltaic-1.20.1-1.0.13.jar` (both)
 - Wavey Capes — `waveycapes-forge-1.11.2-mc1.20.1.jar` (client)
 - XNet — `xnet-1.20-6.1.7.jar` (both)
@@ -125,4 +126,7 @@
 - [TACZ/SBW]Suppression — `suppressionmod-1.1.1.jar` (both)
 - [TaCZ/SBW] PlayerRevive gun mod compitability — `playerrevive_compat-1.0.4-daf51f2.jar` (both)
 - [TaCZ] Timeless and Classics Zero Guns — `tacz-1.20.1-1.1.8-hotfix.jar` (both)
+- collective-1.20.1-8.40 — `collective-1.20.1-8.40.jar` (server)
+- deathbackup-1.20.1-3.6 — `deathbackup-1.20.1-3.6.jar` (server)
+- invsee-forge-1.20.1-1.2.0 — `invsee-forge-1.20.1-1.2.0.jar` (server)
 - libIPN — `libIPN-forge-1.20-4.0.2.jar` (client)
