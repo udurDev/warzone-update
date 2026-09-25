@@ -1,4 +1,4 @@
-# Состав сборки 2.0.0
+# Состав сборки 2.0.1
 
 - AmbientSounds 6 — `AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar`
 - AppleSkin — `appleskin-forge-mc1.20.1-2.5.1.jar`

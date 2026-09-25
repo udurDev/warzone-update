@@ -5,8 +5,16 @@ file = "config/item_obliterator.json5"
 hash = "9e294596ac015e83fa50643c1e480a8791f709ebedc639637687d092b7564ea4"
 
 [[files]]
+file = "config/playerrevive-client.json"
+hash = "2f4f06dbfd730fccd6efee9bea7956dd8caabc965df0c29c4b6cfc5017e84ff0"
+
+[[files]]
+file = "config/playerrevive_compat-common.toml"
+hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
+
+[[files]]
 file = "config/warzone_pack.txt"
-hash = "c28fcca53637bc88e124af1725df13cb98c69dedefd62fb3cdbe1cdb6b760624"
+hash = "fe840f52fb5578d3f77eb497115eb02c6036601c3a53e60df7995c7276baa77a"
 
 [[files]]
 file = "mods/ambientsounds-6.pw.toml"
