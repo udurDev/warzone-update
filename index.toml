@@ -26,7 +26,7 @@ hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "9626ba4d7c5a0e2de37713c0f49774860508381b714735fc371b6d0e1528190c"
+hash = "9943c6efcaa36240f00e89fe037263ffa336c2999049cc278b3914c185a2fea4"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -612,8 +612,8 @@ file = "mods/wzguard-1.1.0.jar"
 hash = "89cfcafe438acf02b0bc13223701f458fd94d1950d8f7ca020a124dd697b141e"
 
 [[files]]
-file = "mods/wzupdater-1.4.0.jar"
-hash = "74d7174603900a2364b028fdd67e319a6ad82e69fca47cf8296d5c8bdfb8c0a0"
+file = "mods/wzupdater-1.4.1.jar"
+hash = "e808b82b71ddbb063dde3b16506bc3922cafd34f50977cd78c3f72a1361e517a"
 
 [[files]]
 file = "mods/xaero-s-minimap.pw.toml"

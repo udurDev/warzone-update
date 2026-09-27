@@ -35,7 +35,6 @@
 56be989675f110d74c04567c4ccc3c1941f7472c darkness-forge-1.20.1-2.0.103-fork.jar
 57e1474cb437337ec78e8cbfd6c10fb6cfc9c829 rftoolsbase-1.20-5.0.7.jar
 588bf894199e7573af3f7258e1582774fa0cc8f4 xnet-1.20-6.1.7.jar
-5d9f53bbe2a9233eb5f78ae3638aa0efdced578b wzupdater-1.4.0.jar
 5fb28be29200a41b034e423d87823eb19ad651cd Explorify v1.6.5.mod.jar
 6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab [1.20.1] SecurityCraft v1.10.2.1.jar
 64414cc4229c909af4095ab5e8a4f3762cd55185 fast-ip-ping-v1.0.12-mc1.20.4-forge.jar
@@ -43,6 +42,7 @@
 644dc33b1745ad100f513b4d169ace86fff3b2bf Highlighter-1.20.1-forge-1.1.9.jar
 6b0e49209b106e2a22157948d8cad81bccf6dd1d daffas_arsenal-3.7.1.2.jar
 6ccb76043763f929a11f1857a57b41bb70ab7512 PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
+6e4c9ecb0758b6b2ff7191bab4d1992a0365303e wzupdater-1.4.1.jar
 70f3bd771ab3b5921ce1ff5f14166fab694ca1aa ftb-quests-forge-2001.4.22.jar
 718a4339f6dad3a56b6e7243e62febfb643b7151 xaerominimap-forge-1.20.1-26.5.0.jar
 74c74447f556f26d2f90a104ae7d9658fcfe3acb Ballistix-1.20.1-1.1.1.jar
