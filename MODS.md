@@ -1,4 +1,4 @@
-# Состав сборки 2.0.6
+# Состав сборки 2.0.7
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -7,7 +7,7 @@
 - Architectury API — `architectury-9.2.14-forge.jar` (both)
 - BadOptimizations — `BadOptimizations-2.4.1-1.20.1.jar` (client)
 - Ballistix — `Ballistix-1.20.1-1.1.1.jar` (both)
-- Balm — `balm-forge-1.20.1-7.3.43.jar` (client)
+- Balm — `balm-forge-1.20.1-7.3.44.jar` (client)
 - Better Advancements — `BetterAdvancements-Forge-1.20.1-0.6.0.73.jar` (client)
 - Better Blood Overlay — `betterbloodoverlay-forge-1.20.1-2.2.0.jar` (client)
 - BetterF3 — `BetterF3-7.0.2-Forge-1.20.1.jar` (client)
@@ -65,7 +65,7 @@
 - Item Highlighter [Neo/Forge] — `Highlighter-1.20.1-forge-1.1.9.jar` (client)
 - Item Obliterator (Modpack Utils Series) — `Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar` (both)
 - Jade 🔍 — `Jade-1.20.1-Forge-11.13.3.jar` (client)
-- Just Enough Items (JEI) — `jei-1.20.1-forge-15.62.0.214.jar` (client)
+- Just Enough Items (JEI) — `jei-1.20.1-forge-15.62.0.216.jar` (client)
 - Kotlin for Forge — `kotlinforforge-4.12.0-all.jar` (both)
 - KubeJS — `kubejs-forge-2001.6.5-build.26.jar` (both)
 - Low On Fire — `LowOnFire_1.20.1.zip` (client)
@@ -74,7 +74,7 @@
 - Macaw's Lights and Lamps — `mcw-lights-1.1.5-mc1.20.1forge.jar` (both)
 - Macaw's Roofs — `mcw-roofs-2.3.2-mc1.20.1forge.jar` (both)
 - McJtyLib — `mcjtylib-1.20-8.0.8.jar` (both)
-- MezzConfig — `mezz_config-1.20.1-forge-0.6.3.jar` (both)
+- MezzConfig — `mezz_config-1.20.1-forge-0.6.5.jar` (both)
 - MineTraps — `MineTraps-1.20.2-(v.2.3.0a).jar` (both)
 - ModernFix — `modernfix-forge-5.27.83+mc1.20.1.jar` (both)
 - Moonlight Lib — `moonlight-1.20-2.16.35-forge.jar` (both)
@@ -108,7 +108,7 @@
 - TaCZ x Guns Lights Addon [NEW] 2.9.0 — `tacz_x_guns_lights_addon-2.9.0.jar` (both)
 - Terralith — `Terralith_1.20.x_v2.5.4.jar` (both)
 - Thin Air [Archived] — `ThinAir-v8.1.7-1.20.1-Forge.jar` (both)
-- Trash Cans — `trashcans-1.1.0a-forge-mc1.20.4.jar` (both)
+- Trash Cans — `trashcans-1.1.1-forge-mc1.20.4.jar` (both)
 - True Darkness [Forge] - Updated Fork — `darkness-forge-1.20.1-2.0.103-fork.jar` (client)
 - True Doors — `§fTrue§r §6§nDoors§r§k§0§k.zip` (client)
 - Vanishmod-1.20.1-1.1.21 — `Vanishmod-1.20.1-1.1.21.jar` (server)
@@ -122,7 +122,7 @@
 - [SBW] Advanced CIWS — `SBW-Advanced-CIWS-Forge-1.20.1-SBW-0.8.9-final-v1.0.8-.jar` (both)
 - [SBW] Superb Warfare — `superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar` (both)
 - [SBW]DragonRise:Reforge — `dragonrise_reforge-1.5.0-beta.jar` (both)
-- [TACZ Addons] Daffa's Arsenal — `daffas_arsenal-3.6.0.jar` (both)
+- [TACZ Addons] Daffa's Arsenal — `daffas_arsenal-3.7.1.2.jar` (both)
 - [TACZ/SBW]Suppression — `suppressionmod-1.1.1.jar` (both)
 - [TaCZ/SBW] PlayerRevive gun mod compitability — `playerrevive_compat-1.0.4-daf51f2.jar` (both)
 - [TaCZ] Timeless and Classics Zero Guns — `tacz-1.20.1-1.1.8-hotfix.jar` (both)

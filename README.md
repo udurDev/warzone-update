@@ -1,4 +1,4 @@
-# Сборка Warzone 2.0.6
+# Сборка Warzone 2.0.7
 
 - [Warzone-Start.zip](https://raw.githubusercontent.com/udurDev/warzone-update/main/download/Warzone-Start.zip) — TLauncher, официальный лаунчер, CurseForge
 - [Warzone-Prism.zip](https://raw.githubusercontent.com/udurDev/warzone-update/main/download/Warzone-Prism.zip) — Prism Launcher / PollyMC
@@ -21,8 +21,12 @@ Minecraft 1.20.1, Forge 47.4.23. Памяти для игры: 6 ГБ (мини�
 Обновления: при запуске мод сам предложит «Обновить сейчас», если сборка на сервере новее.
 
 === Prism Launcher / PollyMC ===
-«Добавить экземпляр» -> «Импорт» -> файл Warzone-Prism.zip. Сборка скачается и будет
-обновляться сама при каждом запуске — ничего делать не нужно.
+«Добавить экземпляр» -> слева «Импорт» -> в поле вставьте ССЫЛКУ на Warzone-Prism.zip
+(https://raw.githubusercontent.com/udurDev/warzone-update/main/download/Warzone-Prism.zip)
+или нажмите «Обзор» и выберите скачанный файл Warzone-Prism.zip (не распаковывать!) -> «ОК».
+Сборка скачается при первом запуске и дальше обновляется сама — ничего делать не нужно.
+
+Лишние моды в папке mods (не из сборки) сервер не пропустит — апдейтер переносит их в mods_disabled.
 
 Не получилось? Лог установки: <папка игры>\.wzupdater\update.log — пришлите его администрации.
 ```

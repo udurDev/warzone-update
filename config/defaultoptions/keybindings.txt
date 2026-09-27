@@ -1,0 +1,15 @@
+key_key.explosionoverhaul.accept_scan:key.keyboard.f6
+key_key.explosionoverhaul.decline_scan:key.keyboard.f7
+key_key.explosionoverhaul.info_scan:key.keyboard.f8
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.socialInteractions:key.keyboard.unknown
+key_key.plasmovoice.settings:key.keyboard.apostrophe
+key_supplementaries.keybind.quiver:key.keyboard.period
+key_key.deeperdarker.transmit:key.keyboard.unknown
+key_key.tacz.zoom.desc:key.keyboard.grave.accent
+key_key.curios.open.desc:key.keyboard.semicolon
+key_keybinds.show_wounds:key.keyboard.j
+key_key.corpse.death_history:key.keyboard.f4
+key_key.taczaddon.switch_gun.desc:key.keyboard.caps.lock
+key_gui.xaero_enlarge_map:key.keyboard.comma
