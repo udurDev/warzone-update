@@ -4,6 +4,7 @@
 065c2d287a52f52fc8d33d780192325ee6f4b6ae configured-forge-1.20.1-2.2.3.jar
 066d8ce36155f0018e30e905240fc12e422972e9 skinlayers3d-forge-1.11.3-mc1.20.1.jar
 07bfad3e704a3ab9fe11df42a3acb6315206713c supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar
+12956132cea146ad0a5a6bbd370f8fcb2a92d71e wzguard-1.1.0.jar
 12f95fa85c62123140d1962702a97a3bb746bbf5 deeperdarker-forge-1.20.1-1.3.3.jar
 14d7b6605734c9e26ed6aa57ea30f1eb4572a06e tacz_x_guns_lights_addon-2.9.0.jar
 173c30c8918da57be9398b3687ea19a81455c2c1 zombieawareness-1.20.1-1.13.1.jar
@@ -37,6 +38,7 @@
 56be989675f110d74c04567c4ccc3c1941f7472c darkness-forge-1.20.1-2.0.103-fork.jar
 57e1474cb437337ec78e8cbfd6c10fb6cfc9c829 rftoolsbase-1.20-5.0.7.jar
 588bf894199e7573af3f7258e1582774fa0cc8f4 xnet-1.20-6.1.7.jar
+5d9f53bbe2a9233eb5f78ae3638aa0efdced578b wzupdater-1.4.0.jar
 5fb28be29200a41b034e423d87823eb19ad651cd Explorify v1.6.5.mod.jar
 6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab [1.20.1] SecurityCraft v1.10.2.1.jar
 64414cc4229c909af4095ab5e8a4f3762cd55185 fast-ip-ping-v1.0.12-mc1.20.4-forge.jar

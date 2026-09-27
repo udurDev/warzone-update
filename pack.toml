@@ -1,12 +1,12 @@
 name = "Warzone"
 author = "_udur_"
-version = "2.0.7"
+version = "2.0.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5cb54807354c5dc1d01293a792fe279291fb80b03867da2ee8882688eeb2d9e3"
+hash = "a512bc2aac32adfb5226b55aac66ae5c401e70be00e734b12c7378b1ee7439b3"
 
 [versions]
 minecraft = "1.20.1"

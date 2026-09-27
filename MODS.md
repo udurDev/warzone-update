@@ -1,4 +1,4 @@
-# Состав сборки 2.0.7
+# Состав сборки 2.0.8
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -34,7 +34,6 @@
 - Drip Sounds — `Drip Sounds-0.5.2+1.20.4-Forge.jar` (client)
 - Dynamic FPS — `dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar` (client)
 - Dynamic Lights — `dynamiclights-1.20.1.2.jar` (both)
-- Eating Animation [Neo/Forge] — `eatinganimation-1.20.1-5.1.0.jar` (client)
 - Embeddium — `embeddium-0.3.31+mc1.20.1.jar` (client)
 - Entity Culling Fabric/Forge — `entityculling-forge-1.11.2-mc1.20.1.jar` (client)
 - Explorify – Dungeons & Structures — `Explorify v1.6.5.mod.jar` (both)
@@ -56,7 +55,6 @@
 - Fusion (Connected Textures) — `fusion-1.3.15b-forge-mc1.20.1.jar` (client)
 - GeckoLib — `geckolib-forge-1.20.1-4.8.4.jar` (both)
 - Giant Swamp Tree — `giant_swamp_tree-1.0.1-forge-1.20.1.jar` (both)
-- GroovyModLoader (GML) — `gml-4.0.11-all.jar` (client)
 - Iceberg [Neo/Forge] — `Iceberg-1.20.1-forge-1.1.25.jar` (client)
 - ImmediatelyFast — `ImmediatelyFast-Forge-1.5.5+1.20.4.jar` (client)
 - Immersive Engineering — `ImmersiveEngineering-1.20.1-10.2.0-183.jar` (both)

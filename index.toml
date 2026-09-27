@@ -26,7 +26,7 @@ hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "3297f848bfd1ff4183e9c570d5d3a5c9aed02771b6dc03f49345c11eaa6e5bfd"
+hash = "9626ba4d7c5a0e2de37713c0f49774860508381b714735fc371b6d0e1528190c"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -193,11 +193,6 @@ hash = "9e509b2046271caf29aa1f0f91f1db22d981a3e84f0dd4b13047b3010fba078f"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-neo-forge.pw.toml"
-hash = "2c3e2f33ee1cd0d4bf7c0070e7757077de48d0b53ca1e70bfb0ebebaf2bbc37d"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
 metafile = true
@@ -300,11 +295,6 @@ metafile = true
 [[files]]
 file = "mods/giant-swamp-tree.pw.toml"
 hash = "644257622b79e08fe97213025e72cb19af45b3d2d8dd0f1edb9420d7b4b69dfa"
-metafile = true
-
-[[files]]
-file = "mods/groovymodloader-gml.pw.toml"
-hash = "5c1fb349fa4fe373069204c6078a33132576057898ee6d872c7633dcb1536a0a"
 metafile = true
 
 [[files]]
@@ -618,12 +608,12 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzguard-1.0.0.jar"
-hash = "89fcf764c0310c6d2eaf332277e847e91f29595facfcd6c2a346e6ea96f75bc6"
+file = "mods/wzguard-1.1.0.jar"
+hash = "89cfcafe438acf02b0bc13223701f458fd94d1950d8f7ca020a124dd697b141e"
 
 [[files]]
-file = "mods/wzupdater-1.3.1.jar"
-hash = "ce944ee4669d540a8e1506d072cbfc4f162dd86e4aa67bbe8893461d4dff26e5"
+file = "mods/wzupdater-1.4.0.jar"
+hash = "74d7174603900a2364b028fdd67e319a6ad82e69fca47cf8296d5c8bdfb8c0a0"
 
 [[files]]
 file = "mods/xaero-s-minimap.pw.toml"
