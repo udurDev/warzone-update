@@ -9,6 +9,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "6b0656e9842b3a2400d7ed93009c3b44722554fa4fd684340466e442871e1b05"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "077bebe5394bcfe29d87997dc62be8cb4183c7a08de159acb423fb39cf4fb75f"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "bbb52f8ea30dd5fb4b23860dd3370a29adb99fc8c451db472624bcedb4ed6eec"
 
@@ -26,7 +30,7 @@ hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "9943c6efcaa36240f00e89fe037263ffa336c2999049cc278b3914c185a2fea4"
+hash = "7294581d3addafc90b7c0dd6cdd580247b66eb5dedca2fded320dca2b205a9ba"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -608,12 +612,16 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzguard-1.1.0.jar"
-hash = "89cfcafe438acf02b0bc13223701f458fd94d1950d8f7ca020a124dd697b141e"
+file = "mods/wzbase-1.0.0.jar"
+hash = "e40bf9f2cd16055ed112684b5a2491310a2dea618ebc2c6d70bb8b9d917805d9"
 
 [[files]]
-file = "mods/wzupdater-1.4.1.jar"
-hash = "e808b82b71ddbb063dde3b16506bc3922cafd34f50977cd78c3f72a1361e517a"
+file = "mods/wzguard-1.2.0.jar"
+hash = "bf60f2e63601011617b9cef91643551c09e0a2cb4173c80de6e5d9da63548f2c"
+
+[[files]]
+file = "mods/wzupdater-1.4.2.jar"
+hash = "3cc7ba8e29c81c80b6773a71817716d1ca1c3bdbd90b55cac7c409e3ce86488c"
 
 [[files]]
 file = "mods/xaero-s-minimap.pw.toml"
