@@ -4,7 +4,6 @@
 065c2d287a52f52fc8d33d780192325ee6f4b6ae configured-forge-1.20.1-2.2.3.jar
 066d8ce36155f0018e30e905240fc12e422972e9 skinlayers3d-forge-1.11.3-mc1.20.1.jar
 07bfad3e704a3ab9fe11df42a3acb6315206713c supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar
-12956132cea146ad0a5a6bbd370f8fcb2a92d71e wzguard-1.1.0.jar
 12f95fa85c62123140d1962702a97a3bb746bbf5 deeperdarker-forge-1.20.1-1.3.3.jar
 14d7b6605734c9e26ed6aa57ea30f1eb4572a06e tacz_x_guns_lights_addon-2.9.0.jar
 173c30c8918da57be9398b3687ea19a81455c2c1 zombieawareness-1.20.1-1.13.1.jar
@@ -19,6 +18,7 @@
 2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf Necronomicon-Forge-1.6.0+1.20.1.jar
 2b02beb2bd177aa695dc6fc030fc3bb230ca96b1 mcw-roofs-2.3.2-mc1.20.1forge.jar
 2bdc4138a66d8498cdf84f6bc7d37892cf871d71 wzbase-1.0.0.jar
+2d8ea56212d7a99ca1f2712ce2fe9508ea2145e3 wzguard-1.2.1.jar
 2fcdb0d2221b32fc4f64dea2957ec0dd7ace3174 SimpleLogin-1.20.1-1.0.2-all.jar
 304007dcb0fb15ed1a1bc3771736470dafc5be0f BadOptimizations-2.4.1-1.20.1.jar
 326d65a29981de28016e3828370d68a8f63e1798 supplementaries-1.20-3.1.43-forge.jar
@@ -45,7 +45,6 @@
 644dc33b1745ad100f513b4d169ace86fff3b2bf Highlighter-1.20.1-forge-1.1.9.jar
 6b0e49209b106e2a22157948d8cad81bccf6dd1d daffas_arsenal-3.7.1.2.jar
 6ccb76043763f929a11f1857a57b41bb70ab7512 PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
-6e4c9ecb0758b6b2ff7191bab4d1992a0365303e wzupdater-1.4.1.jar
 70f3bd771ab3b5921ce1ff5f14166fab694ca1aa ftb-quests-forge-2001.4.22.jar
 718a4339f6dad3a56b6e7243e62febfb643b7151 xaerominimap-forge-1.20.1-26.5.0.jar
 74c74447f556f26d2f90a104ae7d9658fcfe3acb Ballistix-1.20.1-1.1.1.jar
@@ -62,6 +61,7 @@
 87d312bbeef8f508180c56cae76406e5e3f903fc giant_swamp_tree-1.0.1-forge-1.20.1.jar
 87ea0cd8ec56763185ee0db09eec7c676969e4da AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar
 8b0cc9797d4ed00fd2d1002d58960af8b32012ae kubejs-forge-2001.6.5-build.26.jar
+8fbbeb36550f548c87a19269e0c139ee082b0d75 wzbase-1.1.0.jar
 962fdb760409d6d71cbf079235f1ca94e3863a22 kotlinforforge-4.12.0-all.jar
 9770ee0fdd377a5cd16bfab53341f62f656ff51a fusion-1.3.15b-forge-mc1.20.1.jar
 979e74fa10b24a7d7c4d9aeb5824b80f4f9235cf InventoryProfilesNext-forge-1.20-1.10.20.jar

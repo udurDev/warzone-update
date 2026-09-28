@@ -3,7 +3,6 @@
 065c2d287a52f52fc8d33d780192325ee6f4b6ae configured-forge-1.20.1-2.2.3.jar
 066d8ce36155f0018e30e905240fc12e422972e9 skinlayers3d-forge-1.11.3-mc1.20.1.jar
 07bfad3e704a3ab9fe11df42a3acb6315206713c supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar
-12956132cea146ad0a5a6bbd370f8fcb2a92d71e wzguard-1.1.0.jar
 12f95fa85c62123140d1962702a97a3bb746bbf5 deeperdarker-forge-1.20.1-1.3.3.jar
 14d7b6605734c9e26ed6aa57ea30f1eb4572a06e tacz_x_guns_lights_addon-2.9.0.jar
 173c30c8918da57be9398b3687ea19a81455c2c1 zombieawareness-1.20.1-1.13.1.jar
@@ -17,6 +16,7 @@
 285b7c7616971338ccbe0022c9ea0f8ad3036aaf PuzzlesLib-v8.1.33-1.20.1-Forge.jar
 2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf Necronomicon-Forge-1.6.0+1.20.1.jar
 2b02beb2bd177aa695dc6fc030fc3bb230ca96b1 mcw-roofs-2.3.2-mc1.20.1forge.jar
+2bdc4138a66d8498cdf84f6bc7d37892cf871d71 wzbase-1.0.0.jar
 2fcdb0d2221b32fc4f64dea2957ec0dd7ace3174 SimpleLogin-1.20.1-1.0.2-all.jar
 304007dcb0fb15ed1a1bc3771736470dafc5be0f BadOptimizations-2.4.1-1.20.1.jar
 326d65a29981de28016e3828370d68a8f63e1798 supplementaries-1.20-3.1.43-forge.jar
@@ -32,6 +32,7 @@
 452175b95ad3db6ff58bb8968f6bf7a9d1e0f480 curios-forge-5.14.1+1.20.1.jar
 4906476a6a0a7e64772db17b3e707fdd4bbbc0fb xaeroworldmap-forge-1.20.1-1.46.0.jar
 4f464a183a2df82978c3f6cf55e714bde694af68 polymorph-forge-0.49.11+1.20.1.jar
+514569fb53f0960342c924acf7fe0e7bd5abe208 wzguard-1.2.0.jar
 56be989675f110d74c04567c4ccc3c1941f7472c darkness-forge-1.20.1-2.0.103-fork.jar
 57e1474cb437337ec78e8cbfd6c10fb6cfc9c829 rftoolsbase-1.20-5.0.7.jar
 588bf894199e7573af3f7258e1582774fa0cc8f4 xnet-1.20-6.1.7.jar
@@ -42,7 +43,6 @@
 644dc33b1745ad100f513b4d169ace86fff3b2bf Highlighter-1.20.1-forge-1.1.9.jar
 6b0e49209b106e2a22157948d8cad81bccf6dd1d daffas_arsenal-3.7.1.2.jar
 6ccb76043763f929a11f1857a57b41bb70ab7512 PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
-6e4c9ecb0758b6b2ff7191bab4d1992a0365303e wzupdater-1.4.1.jar
 70f3bd771ab3b5921ce1ff5f14166fab694ca1aa ftb-quests-forge-2001.4.22.jar
 718a4339f6dad3a56b6e7243e62febfb643b7151 xaerominimap-forge-1.20.1-26.5.0.jar
 74c74447f556f26d2f90a104ae7d9658fcfe3acb Ballistix-1.20.1-1.1.1.jar
@@ -93,6 +93,7 @@ bddafeea4c9c1132ed720c30fbaedfe5ab25e846 tacz-1.20.1-1.1.8-hotfix.jar
 c05189646bbde5c0d4486b93de0d707115f8445c mcw-furniture-3.4.1-mc1.20.1forge.jar
 c45153bc169fbff68c9321367f6788ebd84e1584 ImmersivePetroleum-1.20.1-4.3.1-36b.jar
 c49023f5d471aa1ba7fc624d2565fe9e82b7117e ftb-teams-forge-2001.3.2.jar
+c498783c5f056e46a7f623cf9e96bef31bdb24ee wzupdater-1.4.2.jar
 c5f5d5980803259931dfa62236e888fb08ecf70a diet-forge-2.1.1+1.20.1.jar
 c65d07748acc57ceb45d53b3964368b84f34d54f cloth-config-11.1.136-forge.jar
 c6b00675129667e15357f4a3457163a715915eb6 Drip Sounds-0.5.2+1.20.4-Forge.jar
