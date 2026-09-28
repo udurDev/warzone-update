@@ -24,7 +24,6 @@
 3289cbd8e4b7410f2180af54a1420b166ea0f4c3 wzupdater-1.4.3.jar
 32ea4495b0e646f8f060e4e97d17044dd9fdefbd FastSuite-1.20.1-5.1.2.jar
 378cc9730d1f11cd4c50add96263baccacdb4942 PickUpNotifier-v8.0.0-1.20.1-Forge.jar
-390591fd12d9690b780cb22b66b75fb02c911286 wzbase-1.2.2.jar
 3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5 libIPN-forge-1.20-4.0.2.jar
 417fb6ce8f52abf40bd9d0390371790f9576f8ba ferritecore-6.0.1-forge.jar
 41b2eb8fcfe5e04a2a50d7c8207e1634d26eeea9 trashcans-1.1.1-forge-mc1.20.4.jar
@@ -41,6 +40,7 @@
 644731e321c53a35a0b3177a3cc6347fe38002f4 yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
 644dc33b1745ad100f513b4d169ace86fff3b2bf Highlighter-1.20.1-forge-1.1.9.jar
 6b0e49209b106e2a22157948d8cad81bccf6dd1d daffas_arsenal-3.7.1.2.jar
+6b820953e2d864681991e1588ac0b915bd009d7b wzcomms-1.0.0.jar
 6ccb76043763f929a11f1857a57b41bb70ab7512 PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
 70f3bd771ab3b5921ce1ff5f14166fab694ca1aa ftb-quests-forge-2001.4.22.jar
 718a4339f6dad3a56b6e7243e62febfb643b7151 xaerominimap-forge-1.20.1-26.5.0.jar
@@ -71,6 +71,7 @@ a52918a500ff421180a1cbd1a0cabee712134ec4 architectury-9.2.14-forge.jar
 a5427d5ff07eb044144ed0b54308370d88bce17e ftb-library-forge-2001.2.13.jar
 a62ed641fe95d9fea041dea8689f5a037aece597 BetterAdvancements-Forge-1.20.1-0.6.0.73.jar
 a7885d318f5a6810b0ef543cd1cce7d4308f10e6 moonlight-1.20-2.16.35-forge.jar
+a91e03b204ab7c20592b2b9cb41076a9f0678784 wzbase-1.4.0.jar
 ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a CustomSkinLoader_Universal-15.0.1.jar
 aef2c02392624f0a12475ada809366b12ac9ec52 sound-physics-remastered-forge-1.20.1-1.5.1.jar
 afebe3773bd8b3f902ef54c3c98864bfb0d1e00e firstaid-1.20.1-1.1.jar
