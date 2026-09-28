@@ -21,6 +21,10 @@ file = "config/item_obliterator.json5"
 hash = "9e294596ac015e83fa50643c1e480a8791f709ebedc639637687d092b7564ea4"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "87280ea99a2a014bb9fa2bd9670cc649a614b037520991fa18be4227594a05f6"
+
+[[files]]
 file = "config/playerrevive-client.json"
 hash = "2f4f06dbfd730fccd6efee9bea7956dd8caabc965df0c29c4b6cfc5017e84ff0"
 
@@ -29,8 +33,12 @@ file = "config/playerrevive_compat-common.toml"
 hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
+file = "config/securitycraft-client.toml"
+hash = "ddeeeb4bd6a01136808a62543fad87da1ee84d3a386c29781b7f04781b3c226a"
+
+[[files]]
 file = "config/warzone_pack.txt"
-hash = "8eb961409cf361fffd2ecefbafa8aa776bb884eca8bc5897172fcaf6c71d4b16"
+hash = "b43889a851b767c2082dc89467e96b56b6d41eb4cc8a14621884fe16f7c1297c"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -422,11 +430,6 @@ hash = "87b1e359daa460ca6408637adfeac9415ea98060f0db906c830117a0f2aae9ee"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "f6da8aa98e45998c1bff9b9fb0238da4aa27ce4a453dcf088e11859120723ef7"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "f5807f73887e2336edc08f6f2517100dcd5387fdf13f298a2a5e50a5beb99004"
 metafile = true
@@ -464,11 +467,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "910ff4db4838e034b3d792205de05aabb88558a5093cfa1a6f37efb02406ddb0"
-metafile = true
-
-[[files]]
-file = "mods/reforgedplay-replay-mod-on-neo-forge.pw.toml"
-hash = "2470bdc70eb5389a4a62a34b42f5e2ac0ac8e48e0e11cd8c451651cc8147d961"
 metafile = true
 
 [[files]]
@@ -517,11 +515,6 @@ hash = "5fdc503d71a6cfd9aa6822b1537fd42bc74058a659b2ed71855f5bcde1ac2ce9"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "01d628d71fd20a235492879b37853c2301066aee4234df0acd62c6990b319d26"
 metafile = true
@@ -543,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-addon.pw.toml"
-hash = "8bfaad8c37f63a1ad919eeddea59529ef63fbc76e06cd2bc2e6d21581ac3252e"
+hash = "5cbae99f4065663686d2ee56aac9d12e0d9087123110b230f46c3630fef429e8"
 metafile = true
 
 [[files]]
@@ -612,16 +605,16 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzbase-1.2.0.jar"
-hash = "f1daef5c9204d7855f6b25b81f647ab42c2f0d1ec18e1969f6d884fd04e5fbd0"
+file = "mods/wzbase-1.2.1.jar"
+hash = "dcdc49de5d12b817967049131713bd1cf457020dd2619ec2d4a28e6e21e0f453"
 
 [[files]]
 file = "mods/wzguard-1.2.1.jar"
 hash = "52d7595ffaaf36b388c0d0a7af1b6c510ce0edb1db99113009e1aa94f2a48ec7"
 
 [[files]]
-file = "mods/wzupdater-1.4.2.jar"
-hash = "3cc7ba8e29c81c80b6773a71817716d1ca1c3bdbd90b55cac7c409e3ce86488c"
+file = "mods/wzupdater-1.4.3.jar"
+hash = "5a0bd4531dd6db214b0745f487c892c83e00fd1e929bf15c57d94864557de800"
 
 [[files]]
 file = "mods/xaero-s-minimap.pw.toml"

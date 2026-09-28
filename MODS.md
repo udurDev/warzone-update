@@ -1,4 +1,4 @@
-# Состав сборки 2.0.12
+# Состав сборки 2.0.13
 
 Сторона: both — игрок и сервер, client — только игрок, server — только сервер.
 
@@ -79,7 +79,6 @@
 - Mouse Tweaks — `MouseTweaks-forge-mc1.20.1-2.25.1.jar` (client)
 - Necronomicon API — `Necronomicon-Forge-1.6.0+1.20.1.jar` (both)
 - Not Enough Animations — `notenoughanimations-forge-1.12.6-mc1.20.1.jar` (client)
-- Observable — `observable-4.4.1.jar` (both)
 - Patchouli — `Patchouli-1.20.1-85-FORGE.jar` (both)
 - Pick Up Notifier — `PickUpNotifier-v8.0.0-1.20.1-Forge.jar` (client)
 - Placebo — `Placebo-1.20.1-8.6.3.jar` (both)
@@ -89,20 +88,18 @@
 - Presence Footsteps (Forge) — `PresenceFootsteps-1.20.1-1.9.1-beta.1.jar` (client)
 - Puzzles Lib — `PuzzlesLib-v8.1.33-1.20.1-Forge.jar` (both)
 - RFTools Base — `rftoolsbase-1.20-5.0.7.jar` (both)
-- ReForgedPlay [replay mod on (neo)forge] — `reforgedplaymod-1.20.1-0.3.1.jar` (client)
 - Rhino — `rhino-forge-2001.2.3-build.10.jar` (both)
 - Searchables — `Searchables-forge-1.20.1-1.0.3.jar` (client)
 - Security Craft — `[1.20.1] SecurityCraft v1.10.2.1.jar` (both)
 - Simple Login — `SimpleLogin-1.20.1-1.0.2-all.jar` (both)
 - Skin Layers 3D — `skinlayers3d-forge-1.11.3-mc1.20.1.jar` (client)
-- Smooth Boot (Reloaded) — `smoothboot(reloaded)-mc1.20.1-0.0.4.jar` (both)
 - Sound Physics Remastered — `sound-physics-remastered-forge-1.20.1-1.5.1.jar` (client)
 - Stay True — `Stay_True_1.20.zip` (client)
 - SuperMartijn642's Config Lib — `supermartijn642configlib-1.1.8-forge-mc1.20.jar` (both)
 - SuperMartijn642's Core Lib — `supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar` (both)
 - Supplementaries — `supplementaries-1.20-3.1.43-forge.jar` (both)
 - TaCZ Tweaks — `tacz-tweaks-2.14.2-all.jar` (both)
-- TaCZ addon — `taczaddon-1.1.8.2-forge-1.20.1.jar` (both)
+- TaCZ addon — `taczaddon-1.1.8.2-fix-forge-1.20.1.jar` (both)
 - TaCZ x Guns Lights Addon [NEW] 2.9.0 — `tacz_x_guns_lights_addon-2.9.0.jar` (both)
 - Terralith — `Terralith_1.20.x_v2.5.4.jar` (both)
 - Thin Air [Archived] — `ThinAir-v8.1.7-1.20.1-Forge.jar` (both)
