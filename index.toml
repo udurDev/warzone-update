@@ -38,7 +38,7 @@ hash = "ddeeeb4bd6a01136808a62543fad87da1ee84d3a386c29781b7f04781b3c226a"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "06727ff5fc1efe87efc71bed58294573cc94effaf6f31ef22fc3819da0518e6b"
+hash = "6069babe5ff60caea6e23e4201fb43013ca38c144519e0b94a8f1a60f8489326"
 
 [[files]]
 file = "config/wzbase/keyfix.txt"
@@ -49,8 +49,23 @@ file = "config/xaerohud.txt"
 hash = "7e46ca10c1a4079b1ddcf43703680c78eec8c0a9f951d98fa800c2ac00ce61fb"
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds-6.pw.toml"
 hash = "e0f8f43f753da79ae19ef07914dd801bab0d200bac978dd0f385b721ad8edd3d"
+metafile = true
+
+[[files]]
+file = "mods/antixray-neo-forge.pw.toml"
+hash = "8fd22178e8c1fae6019d177dabbfa0cef0b52f31dc29068149754b2c4c23f933"
 metafile = true
 
 [[files]]
@@ -109,6 +124,11 @@ hash = "c0e999d20ac1b09dd1e3d65c81f0c07ed9fd4d8a58b0061ba718d5af232e72b7"
 metafile = true
 
 [[files]]
+file = "mods/chunky-forge-neoforge.pw.toml"
+hash = "513848614d23b07990b3abe6f93e6c8494348b0e64f496d2525192eee929388b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-api-fabric-forge-neoforge.pw.toml"
 hash = "dfc7196374a5ea9e6b00ec6bb4698dd401112860105359023c414befee86b934"
 metafile = true
@@ -124,8 +144,8 @@ hash = "457669cdff6d88b0041add9cd394ba31bad058e7776396e8e321237a8be56180"
 metafile = true
 
 [[files]]
-file = "mods/collective-1-20-1-8-40.pw.toml"
-hash = "1964b7da8637466079986d0556dc3a26578b6fd6abb0abfea4ed92b6ee97b633"
+file = "mods/collective.pw.toml"
+hash = "728157b75bc104bfc3aa902e20f36cf824ab7a38743b98d8f5d1b712fa9a37d5"
 metafile = true
 
 [[files]]
@@ -154,6 +174,11 @@ hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "e0c50da644fc51795e73212c7b2a5568a46e5f2055ee4c73d25352a7d968abd4"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "746f602801fa0118397b7f81e9e4e5bd6f23f252744fdd87753d4f357ed23c30"
 metafile = true
@@ -174,8 +199,8 @@ hash = "44f723ce76d7daef2e13c8a7eaae432f791b4f24e857a8edfc0adfd532cc3b75"
 metafile = true
 
 [[files]]
-file = "mods/deathbackup-1-20-1-3-6.pw.toml"
-hash = "1e86e76887a638bdaa92463e8097db5921cd246e041a72880c8e9dcd95f7a1df"
+file = "mods/death-backup.pw.toml"
+hash = "f1f3a3a2dba34ae113a7899897783282cf8ffc6988c0b7b7ec5de5dc28e60e32"
 metafile = true
 
 [[files]]
@@ -191,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/diet-fabric-forge-quilt.pw.toml"
 hash = "075a7b73e2376c3dce4a500d9a2f3c8914fd17d79fdd27c1701d9e41f1ffbb0d"
+metafile = true
+
+[[files]]
+file = "mods/discord-integration-forge.pw.toml"
+hash = "5ea33fcf62c8f6d44e8dd00ea6692e628dbe74fb30f39023e3c16f991c6730c7"
 metafile = true
 
 [[files]]
@@ -314,6 +344,11 @@ hash = "644257622b79e08fe97213025e72cb19af45b3d2d8dd0f1edb9420d7b4b69dfa"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "77f39fdf45d4715fe7677d65ef2186cb232eb5359a6420e591522294135cdc62"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-neo-forge.pw.toml"
 hash = "f707f2e587c0733faa9562109d91692c539034d39a7be117ad1d45fdb8ca8c5a"
 metafile = true
@@ -364,6 +399,11 @@ hash = "1ebe3280f7a3f385898ea7c0398d0cf16ad977084771d01e13677b78304604f6"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reno.pw.toml"
+hash = "29ad7fb50703e7fcdc858f481c7dab42f20691fbf259bba4fcd7f7020e7d9fce"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "f90607a64d2feb2275c5eea779f959973239f9ba73c89429182d6b37bc229b79"
 metafile = true
@@ -371,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "646a3bb87c40661133f72b4351c2727c16f5660568bf5a66321ab410b1682fb8"
 metafile = true
 
 [[files]]
@@ -409,6 +454,11 @@ hash = "a7d8b61d3fe2fa970930c77a4b6a010e237161ee2588e3c6d6b61f1b9de467d1"
 metafile = true
 
 [[files]]
+file = "mods/minimotd-reforged-mc1-19-4-1-20-x-2-0-13.pw.toml"
+hash = "444e12f21fc4a5656c9da9259b8cf8f0cd609fcbe79a1e95cbb47b16a36d4670"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "3100fc592bb499a16f99bb92fe7782e0f133f1cfc7d550da81202d569bea8996"
 metafile = true
@@ -426,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon-api.pw.toml"
 hash = "1e6cf7b38e79ed85e8fb4ab6f5ff2add4a32d9bdb4f97451ecff63733f61c093"
+metafile = true
+
+[[files]]
+file = "mods/neruina-ticking-entity-fixer.pw.toml"
+hash = "af26ce0be2cff377b9bc1ea6693395d28461ecc7b0f3e9b70ef7f021d5700472"
 metafile = true
 
 [[files]]
@@ -456,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "2887680916a851b45ac0703c5deba3f6f4a601eaa7ee558c5d87ec1db7cb0408"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "438c51d687f62ce75ec1e4b12527f9bfcc26ac4dc7c202a1a053814927b1a4c7"
 metafile = true
 
 [[files]]
@@ -509,6 +569,11 @@ hash = "65552649889d7a566287470aa47ae382aa60d8dbbb5386084b04fd2598b3b0f1"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "5f67406870237320fd17a3a464d8a6108672f9e80bc0212848b9d50a84b91796"
+metafile = true
+
+[[files]]
 file = "mods/simple-login.pw.toml"
 hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
 metafile = true
@@ -524,6 +589,11 @@ hash = "01d628d71fd20a235492879b37853c2301066aee4234df0acd62c6990b319d26"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "4aab5bf8e31390943e3094e5abf6380cbebafecae979166088d520a348359319"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642-s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -536,6 +606,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "72ae7181423ee95414e56a5299a90dc909e7fa7d4ffc550e927a0e54bc887cdb"
+metafile = true
+
+[[files]]
+file = "mods/tab.pw.toml"
+hash = "65e162ff0dd3e54cf3f5155e7f7898ee40a3ce062f3cdc154629e34df91db121"
 metafile = true
 
 [[files]]
@@ -594,8 +669,8 @@ hash = "97e78254f2db3f32811b04cafd138df7e64a0da0a9b2812f7573ace98e6f837f"
 metafile = true
 
 [[files]]
-file = "mods/vanishmod-1-20-1-1-1-21.pw.toml"
-hash = "f0c5fcc93822497e7cf4a5bf8c061b1a74cd8c1632cc494f87b78c2f791b55a8"
+file = "mods/vanishmod.pw.toml"
+hash = "f89678cad509228c15b8f9594f89262409ce7155c75ef91b666b2673eebad689"
 metafile = true
 
 [[files]]
@@ -638,6 +713,16 @@ metafile = true
 [[files]]
 file = "mods/yetanotherconfiglib.pw.toml"
 hash = "6e8a2049761afde2bba4ed59792e4e887f2a5c048c65dcff5fe8c1757a923f09"
+metafile = true
+
+[[files]]
+file = "mods/yung-s-api-forge-neoforge.pw.toml"
+hash = "90f3385041bda3a7fb4cda853bc7f8178509561f6dc1d09bbf823094ba854169"
+metafile = true
+
+[[files]]
+file = "mods/yung-s-bridges-forge-neoforge.pw.toml"
+hash = "b4edec27a7bf3fb8f17844da4b1bcb0192f2010941a0c723e0551a610bfe38ae"
 metafile = true
 
 [[files]]

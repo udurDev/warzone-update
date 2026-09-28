@@ -1,0 +1,13 @@
+name = "Crash Utilities"
+filename = "crashutilities-8.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nbg22QFg/versions/2IKVjueV/crashutilities-8.1.4.jar"
+hash-format = "sha1"
+hash = "e3c00b7591fd5ea99cfbb853b9369fb999d68ed0"
+
+[update]
+[update.modrinth]
+mod-id = "nbg22QFg"
+version = "2IKVjueV"
