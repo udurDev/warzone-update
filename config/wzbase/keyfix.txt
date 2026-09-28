@@ -1,0 +1,36 @@
+# Раскладка Warzone (генерирует scripts/gen_keys.py — руками не править).
+# wzbase применяет строку один раз: только если клавиша ещё на старом значении (игрок её не менял).
+# forge|имя|было[,было]|стало    plasmo|имя|категория|any_context|было(код GLFW)|стало
+forge|key.saveToolbarActivator|key.keyboard.c|key.keyboard.unknown
+forge|key.loadToolbarActivator|key.keyboard.x|key.keyboard.unknown
+forge|key.socialInteractions|key.keyboard.p|key.keyboard.unknown
+forge|key.explosionoverhaul.accept_scan|key.keyboard.1|key.keyboard.f6
+forge|key.explosionoverhaul.decline_scan|key.keyboard.2|key.keyboard.f7
+forge|key.explosionoverhaul.info_scan|key.keyboard.3|key.keyboard.f8
+forge|key.plasmovoice.settings|key.keyboard.v|key.keyboard.apostrophe
+forge|supplementaries.keybind.quiver|key.keyboard.v|key.keyboard.period
+forge|key.deeperdarker.transmit|key.keyboard.v|key.keyboard.unknown
+forge|key.deeperdarker.boost|key.keyboard.b|key.keyboard.right.alt
+forge|key.tacz.zoom.desc|key.keyboard.v|key.keyboard.grave.accent
+forge|key.taczaddon.switch_gun.desc|key.keyboard.tab,key.keyboard.caps.lock|key.mouse.4
+forge|key.curios.open.desc|key.keyboard.g|key.keyboard.semicolon
+forge|keybinds.show_wounds|key.keyboard.h|key.keyboard.j
+forge|key.corpse.death_history|key.keyboard.u|key.keyboard.f4
+forge|gui.xaero_enlarge_map|key.keyboard.z|key.keyboard.comma
+forge|gui.xaero_new_waypoint|key.keyboard.b|key.keyboard.home
+forge|key.warborn.toggle_helmet_top|key.keyboard.h|key.keyboard.i
+forge|key.warborn.remove_plate_menu|key.keyboard.u|key.keyboard.delete
+forge|key.superbwarfare.fire_mode|key.keyboard.n|key.keyboard.g
+forge|key.superbwarfare.edit_mode|key.keyboard.h|key.keyboard.z
+forge|key.superbwarfare.toggle_tactical_map|key.keyboard.m|key.keyboard.p
+forge|key.superbwarfare.unload_passengers|key.keyboard.u|key.keyboard.end
+forge|key.superbwarfare.disconnect_towing|key.keyboard.y|key.keyboard.insert
+forge|key.superbwarfare.loiter_config|key.keyboard.j|key.keyboard.0
+forge|dragonrise_reforge.keyinfo.openfirecontrolkey|key.keyboard.p|key.keyboard.backslash
+forge|dragonrise_reforge.keyinfo.enginechangekey|key.keyboard.v|key.keyboard.keypad.6
+forge|key.immersivepetroleum.projector.flip|key.keyboard.m|key.keyboard.keypad.7
+forge|key.immersiveengineering.magnetEquip|key.keyboard.s|key.keyboard.keypad.8
+forge|placebo.toggleWings|key.keyboard.keypad.8|key.keyboard.unknown
+forge|placebo.toggleTrails|key.keyboard.keypad.9|key.keyboard.unknown
+plasmo|key.plasmovoice.proximity.ptt|hidden|true|342|280
+plasmo|key.plasmovoice.general.mute_microphone|key.plasmovoice.general|false|77|298

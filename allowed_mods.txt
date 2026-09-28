@@ -23,11 +23,9 @@
 326d65a29981de28016e3828370d68a8f63e1798 supplementaries-1.20-3.1.43-forge.jar
 3289cbd8e4b7410f2180af54a1420b166ea0f4c3 wzupdater-1.4.3.jar
 32ea4495b0e646f8f060e4e97d17044dd9fdefbd FastSuite-1.20.1-5.1.2.jar
-348c529ca19444e9e492e2b1755f041d1a97806b taczaddon-1.1.8.2-forge-1.20.1.jar
 378cc9730d1f11cd4c50add96263baccacdb4942 PickUpNotifier-v8.0.0-1.20.1-Forge.jar
-37b714750d0e5487b488b29ff1e1623e5bb18ed6 reforgedplaymod-1.20.1-0.3.1.jar
+390591fd12d9690b780cb22b66b75fb02c911286 wzbase-1.2.2.jar
 3e7c7fcdc037a6ae3d9146e718d87fc83f88f6d5 libIPN-forge-1.20-4.0.2.jar
-3fd79132dba444bd109b5de4ad75dee06a48e130 smoothboot(reloaded)-mc1.20.1-0.0.4.jar
 417fb6ce8f52abf40bd9d0390371790f9576f8ba ferritecore-6.0.1-forge.jar
 41b2eb8fcfe5e04a2a50d7c8207e1634d26eeea9 trashcans-1.1.1-forge-mc1.20.4.jar
 43b3e0766a9e7a30651cc01756476657b865b7a2 dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar
@@ -69,7 +67,6 @@
 9eacd407b7dea636d375dc47335d92f616484ea2 ImmediatelyFast-Forge-1.5.5+1.20.4.jar
 a21517188a06b5ef1805e6ff3457808c198696d8 betterbloodoverlay-forge-1.20.1-2.2.0.jar
 a2bfe43a4c5b5077626d7f0af89fbe9972ba723f plasmovoice-forge-1.20.1-2.1.17.jar
-a2f15d33194092b3960cffe87fb27073e9158c34 wzbase-1.2.0.jar
 a52918a500ff421180a1cbd1a0cabee712134ec4 architectury-9.2.14-forge.jar
 a5427d5ff07eb044144ed0b54308370d88bce17e ftb-library-forge-2001.2.13.jar
 a62ed641fe95d9fea041dea8689f5a037aece597 BetterAdvancements-Forge-1.20.1-0.6.0.73.jar
@@ -90,13 +87,11 @@ b934dce8f2f42cd3dede0a9bee01c08d0c729c8e Voltaic-1.20.1-1.0.13.jar
 b9cf331b70b119e4f01754455183aec70f3d08b9 dragonrise_reforge-1.5.0-beta.jar
 bb0cb397083a0be2601bd4c6f7060326a1c8505f jei-1.20.1-forge-15.62.0.216.jar
 bb2fa8f3e493af16af9160d049f96c614a1faf2f embeddium-0.3.31+mc1.20.1.jar
-bd44f1fd4eab0e58fd5e05a2e2b23071f132edd0 observable-4.4.1.jar
 bd7596d7a225dd4d1cc10a020431b51cc1e21de4 playerrevive_compat-1.0.4-daf51f2.jar
 bddafeea4c9c1132ed720c30fbaedfe5ab25e846 tacz-1.20.1-1.1.8-hotfix.jar
 c05189646bbde5c0d4486b93de0d707115f8445c mcw-furniture-3.4.1-mc1.20.1forge.jar
 c45153bc169fbff68c9321367f6788ebd84e1584 ImmersivePetroleum-1.20.1-4.3.1-36b.jar
 c49023f5d471aa1ba7fc624d2565fe9e82b7117e ftb-teams-forge-2001.3.2.jar
-c498783c5f056e46a7f623cf9e96bef31bdb24ee wzupdater-1.4.2.jar
 c5f5d5980803259931dfa62236e888fb08ecf70a diet-forge-2.1.1+1.20.1.jar
 c65d07748acc57ceb45d53b3964368b84f34d54f cloth-config-11.1.136-forge.jar
 c6b00675129667e15357f4a3457163a715915eb6 Drip Sounds-0.5.2+1.20.4-Forge.jar

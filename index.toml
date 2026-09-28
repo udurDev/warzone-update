@@ -6,7 +6,7 @@ hash = "a8cb8681691a86d67891a35f578e72266e13ae0a97534ffee2562cd265996a30"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6b0656e9842b3a2400d7ed93009c3b44722554fa4fd684340466e442871e1b05"
+hash = "bfa73746b897c994e2c8450d5fc8e2af5bc58f6e00dc5bd7bde694355909027c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -38,7 +38,11 @@ hash = "ddeeeb4bd6a01136808a62543fad87da1ee84d3a386c29781b7f04781b3c226a"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "b43889a851b767c2082dc89467e96b56b6d41eb4cc8a14621884fe16f7c1297c"
+hash = "06727ff5fc1efe87efc71bed58294573cc94effaf6f31ef22fc3819da0518e6b"
+
+[[files]]
+file = "config/wzbase/keyfix.txt"
+hash = "3f94561ee1d3920542da1bc2593534b0207879db09302f24c901bf74f517597b"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -605,8 +609,8 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzbase-1.2.1.jar"
-hash = "dcdc49de5d12b817967049131713bd1cf457020dd2619ec2d4a28e6e21e0f453"
+file = "mods/wzbase-1.2.2.jar"
+hash = "086feadaf7cb533a4087a0a95f7fa52ad6c14c9981dcad026892e2c5a96fc563"
 
 [[files]]
 file = "mods/wzguard-1.2.1.jar"
