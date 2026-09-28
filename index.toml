@@ -30,7 +30,7 @@ hash = "5f1d93095a95a25c35ce4bc0df1e9c8276c255e7bd0d5f6d5b1b95de88254fb6"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "e89f576c025d18203fef9091d2455805cf7c9cc4278b38eb68092c9231a738fe"
+hash = "8eb961409cf361fffd2ecefbafa8aa776bb884eca8bc5897172fcaf6c71d4b16"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -612,8 +612,8 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzbase-1.1.0.jar"
-hash = "525d91d389a80af0c909973f2fbbb6a31c19fad4e34beb5dbf73730cedae4239"
+file = "mods/wzbase-1.2.0.jar"
+hash = "f1daef5c9204d7855f6b25b81f647ab42c2f0d1ec18e1969f6d884fd04e5fbd0"
 
 [[files]]
 file = "mods/wzguard-1.2.1.jar"

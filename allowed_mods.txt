@@ -17,7 +17,6 @@
 285b7c7616971338ccbe0022c9ea0f8ad3036aaf PuzzlesLib-v8.1.33-1.20.1-Forge.jar
 2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf Necronomicon-Forge-1.6.0+1.20.1.jar
 2b02beb2bd177aa695dc6fc030fc3bb230ca96b1 mcw-roofs-2.3.2-mc1.20.1forge.jar
-2bdc4138a66d8498cdf84f6bc7d37892cf871d71 wzbase-1.0.0.jar
 2d8ea56212d7a99ca1f2712ce2fe9508ea2145e3 wzguard-1.2.1.jar
 2fcdb0d2221b32fc4f64dea2957ec0dd7ace3174 SimpleLogin-1.20.1-1.0.2-all.jar
 304007dcb0fb15ed1a1bc3771736470dafc5be0f BadOptimizations-2.4.1-1.20.1.jar
@@ -34,7 +33,6 @@
 452175b95ad3db6ff58bb8968f6bf7a9d1e0f480 curios-forge-5.14.1+1.20.1.jar
 4906476a6a0a7e64772db17b3e707fdd4bbbc0fb xaeroworldmap-forge-1.20.1-1.46.0.jar
 4f464a183a2df82978c3f6cf55e714bde694af68 polymorph-forge-0.49.11+1.20.1.jar
-514569fb53f0960342c924acf7fe0e7bd5abe208 wzguard-1.2.0.jar
 56be989675f110d74c04567c4ccc3c1941f7472c darkness-forge-1.20.1-2.0.103-fork.jar
 57e1474cb437337ec78e8cbfd6c10fb6cfc9c829 rftoolsbase-1.20-5.0.7.jar
 588bf894199e7573af3f7258e1582774fa0cc8f4 xnet-1.20-6.1.7.jar
@@ -71,6 +69,7 @@
 9eacd407b7dea636d375dc47335d92f616484ea2 ImmediatelyFast-Forge-1.5.5+1.20.4.jar
 a21517188a06b5ef1805e6ff3457808c198696d8 betterbloodoverlay-forge-1.20.1-2.2.0.jar
 a2bfe43a4c5b5077626d7f0af89fbe9972ba723f plasmovoice-forge-1.20.1-2.1.17.jar
+a2f15d33194092b3960cffe87fb27073e9158c34 wzbase-1.2.0.jar
 a52918a500ff421180a1cbd1a0cabee712134ec4 architectury-9.2.14-forge.jar
 a5427d5ff07eb044144ed0b54308370d88bce17e ftb-library-forge-2001.2.13.jar
 a62ed641fe95d9fea041dea8689f5a037aece597 BetterAdvancements-Forge-1.20.1-0.6.0.73.jar

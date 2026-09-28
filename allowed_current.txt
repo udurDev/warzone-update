@@ -58,7 +58,6 @@
 87d312bbeef8f508180c56cae76406e5e3f903fc giant_swamp_tree-1.0.1-forge-1.20.1.jar
 87ea0cd8ec56763185ee0db09eec7c676969e4da AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar
 8b0cc9797d4ed00fd2d1002d58960af8b32012ae kubejs-forge-2001.6.5-build.26.jar
-8fbbeb36550f548c87a19269e0c139ee082b0d75 wzbase-1.1.0.jar
 962fdb760409d6d71cbf079235f1ca94e3863a22 kotlinforforge-4.12.0-all.jar
 9770ee0fdd377a5cd16bfab53341f62f656ff51a fusion-1.3.15b-forge-mc1.20.1.jar
 979e74fa10b24a7d7c4d9aeb5824b80f4f9235cf InventoryProfilesNext-forge-1.20-1.10.20.jar
@@ -68,6 +67,7 @@
 9eacd407b7dea636d375dc47335d92f616484ea2 ImmediatelyFast-Forge-1.5.5+1.20.4.jar
 a21517188a06b5ef1805e6ff3457808c198696d8 betterbloodoverlay-forge-1.20.1-2.2.0.jar
 a2bfe43a4c5b5077626d7f0af89fbe9972ba723f plasmovoice-forge-1.20.1-2.1.17.jar
+a2f15d33194092b3960cffe87fb27073e9158c34 wzbase-1.2.0.jar
 a52918a500ff421180a1cbd1a0cabee712134ec4 architectury-9.2.14-forge.jar
 a5427d5ff07eb044144ed0b54308370d88bce17e ftb-library-forge-2001.2.13.jar
 a62ed641fe95d9fea041dea8689f5a037aece597 BetterAdvancements-Forge-1.20.1-0.6.0.73.jar
