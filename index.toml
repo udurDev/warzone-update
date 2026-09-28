@@ -18,7 +18,7 @@ hash = "bbb52f8ea30dd5fb4b23860dd3370a29adb99fc8c451db472624bcedb4ed6eec"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "9e294596ac015e83fa50643c1e480a8791f709ebedc639637687d092b7564ea4"
+hash = "7dcc12981326934485fde713d9be312b7f485cae16cab77bed88533ebdd440b3"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -38,7 +38,7 @@ hash = "ddeeeb4bd6a01136808a62543fad87da1ee84d3a386c29781b7f04781b3c226a"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "6069babe5ff60caea6e23e4201fb43013ca38c144519e0b94a8f1a60f8489326"
+hash = "1bb1d330b5984ca97af2ad21f0c7511225831a0b90557a8e84a5c8b92d3f8390"
 
 [[files]]
 file = "config/wzbase/keyfix.txt"
@@ -297,6 +297,10 @@ metafile = true
 file = "mods/ferritecore-neo-forge.pw.toml"
 hash = "564ba93c1221b92a90b191b2124d9a7555fe7d36e18c1884cb4b4cd53a2f47cd"
 metafile = true
+
+[[files]]
+file = "mods/fieldmed-1.0.0.jar"
+hash = "2b3e719dc9da287e18ef7ce6f3904ad19393ccc1fc53ad821be9484112117b7f"
 
 [[files]]
 file = "mods/first-aid.pw.toml"
@@ -684,8 +688,8 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzbase-1.2.2.jar"
-hash = "086feadaf7cb533a4087a0a95f7fa52ad6c14c9981dcad026892e2c5a96fc563"
+file = "mods/wzbase-1.3.1.jar"
+hash = "ee59a6692cfdf5d9414c5328db1b239855fcba99d783a02e97e66c3744817129"
 
 [[files]]
 file = "mods/wzguard-1.2.1.jar"
