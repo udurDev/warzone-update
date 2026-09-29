@@ -38,7 +38,7 @@ hash = "ddeeeb4bd6a01136808a62543fad87da1ee84d3a386c29781b7f04781b3c226a"
 
 [[files]]
 file = "config/warzone_pack.txt"
-hash = "8a4d165e93729e579c12f73ceb42127673c62db24e8be7d4c5dcbf6c0f08266e"
+hash = "037bd0fa7c54acd8c08ce797dfbd93d243f9c3428d5ebeaa1b9114c06dd57c08"
 
 [[files]]
 file = "config/wzbase/keyfix.txt"
@@ -688,8 +688,8 @@ hash = "5de119d41563d9c44356bec58ca9704e01784281d11921456b654a98085821ef"
 metafile = true
 
 [[files]]
-file = "mods/wzbase-1.4.0.jar"
-hash = "38ec9dc877c0044e18b018a8376452e483425a682213023e41279856937c5685"
+file = "mods/wzbase-1.4.1.jar"
+hash = "8b8306a8324b1f260f9841cac78fe0e37f8e4eb807148feff5181bebc59a62fa"
 
 [[files]]
 file = "mods/wzcomms-1.0.0.jar"

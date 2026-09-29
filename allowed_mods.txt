@@ -95,7 +95,6 @@ c49023f5d471aa1ba7fc624d2565fe9e82b7117e ftb-teams-forge-2001.3.2.jar
 c5f5d5980803259931dfa62236e888fb08ecf70a diet-forge-2.1.1+1.20.1.jar
 c65d07748acc57ceb45d53b3964368b84f34d54f cloth-config-11.1.136-forge.jar
 c6b00675129667e15357f4a3457163a715915eb6 Drip Sounds-0.5.2+1.20.4-Forge.jar
-c7879c147339966fa73005b9ea91617a0107424b wzbase-1.3.1.jar
 c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1 rhino-forge-2001.2.3-build.10.jar
 cc9476ceb1c76d40e25322bcb32f568833d6866f Explosion-Overhaul-0.2.3.0-forge.jar
 cd143b04ea8245243624c720ddd482c3aea0521e superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar
@@ -109,6 +108,7 @@ d8037f9954b238626f8d9ff2bc277c0341ea2713 fracturepoint-1.20.1-3.0.0-PT2-all.jar
 d8fa4e840a3d60f2172de0584d804d0bf7e6db19 Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar
 db25dfc4935b7f1bde62c69f13a7b70e2ecd9f2f cupboard-1.20.1-4.2.jar
 dddab6a5ff092b4535e9fdfb01e1e011afb90e57 defaultoptions-forge-1.20.1-18.0.5.jar
+e5e0f6ed1920e578ff07aaabe4b9cde54d25bf03 wzbase-1.4.1.jar
 e85f53de2e582a79ce25ff1df1e7b5b5fc08440f Placebo-1.20.1-8.6.3.jar
 e94024e4623dfe0232d36b5bab5ab57fcde67ecf SBW-Advanced-CIWS-Forge-1.20.1-SBW-0.8.9-final-v1.0.8-.jar
 e9426c921b5c3c43ed90bf1d8faea8a307c0bc8d connectivity-1.20.1-7.7.jar
